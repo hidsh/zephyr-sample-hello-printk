@@ -1,4 +1,4 @@
-This zephyr example is to "hello world" from `printk` to the usb-serial.
+This zephyr example is for "hello world" from `printk` to the usb-serial.
 
 for zmk firmware, I needed to prepare this example prior to working on its device driver.
 
